@@ -13,6 +13,11 @@ pkg install nodejs
 pkg install git
 ```
 
+Clone This Repository
+```
+git clone https://https://github.com/EnchyID/webphising.git
+```
+
 Install FS, EXPRESS, JSONDB
 ```
 npm install fs
@@ -22,13 +27,8 @@ npm install express
 npm install simple-json-db
 ```
 
-Clone This Repository
-```
-git clone https://https://github.com/EnchyID/webphising.git
-cd webphising
-```
-
 Run Scripts
 ```
+cd webphising
 node index.js
 ```
